@@ -163,16 +163,16 @@ This project is suitable for students, educators, and self-learners exploring:
 
 Contributions are welcome. You can help by:
 
-Reporting bugs or edge cases
-Improving the parser or interpreter
-Adding new features (e.g., control flow, functions)
-Enhancing error handling or optimization
+-Reporting bugs or edge cases
+-Improving the parser or interpreter
+-Adding new features (e.g., control flow, functions)
+-Enhancing error handling or optimization
 
 To contribute:
 
-1.Fork the repository
-2.Create a new branch
-3.Commit your changes
-4.Open a pull request with clear documentation
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a pull request with clear documentation
 
 
