@@ -135,38 +135,38 @@ print(z);        // Outputs: 15
 
 ## Limitations
 
--No support for:
-    -Strings or boolean values
-    -Control flow statements (e.g., if/else, loops)
-    -Functions or scoping
--No expression chaining or complex grammar
--Variables are global and unscoped
--Minimal error recovery; interpreter exits on error
+- No support for:
+    - Strings or boolean values
+    - Control flow statements (e.g., if/else, loops)
+    - Functions or scoping
+- No expression chaining or complex grammar
+- Variables are global and unscoped
+- Minimal error recovery; interpreter exits on error
 
 
 ## Educational Goals
 This interpreter is designed primarily for learning and teaching purposes. Key concepts covered include:
 
--Tokenization using character-level parsing
--Recursive descent parsing techniques
--Abstract Syntax Tree (AST)-free evaluation
--Managing symbol tables and runtime states
--Building a C-based interpreter from scratch
+- Tokenization using character-level parsing
+- Recursive descent parsing techniques
+- Abstract Syntax Tree (AST)-free evaluation
+- Managing symbol tables and runtime states
+- Building a C-based interpreter from scratch
 
 This project is suitable for students, educators, and self-learners exploring:
 
--Compiler and interpreter design
--Language implementation in C
--Fundamentals of programming languages
+- Compiler and interpreter design
+- Language implementation in C
+- Fundamentals of programming languages
 
 ## Contributing 
 
 Contributions are welcome. You can help by:
 
--Reporting bugs or edge cases
--Improving the parser or interpreter
--Adding new features (e.g., control flow, functions)
--Enhancing error handling or optimization
+- Reporting bugs or edge cases
+- Improving the parser or interpreter
+- Adding new features (e.g., control flow, functions)
+- Enhancing error handling or optimization
 
 To contribute:
 
