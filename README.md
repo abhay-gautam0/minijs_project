@@ -54,9 +54,6 @@ MiniJS/
 
 ---
 
-
----
-
 ## How It Works
 
 ### 1. Lexer
@@ -111,6 +108,7 @@ You will be prompted to enter your code directly into the terminal. To indicate 
 On Linux/macOS: press Ctrl + D
 On Windows: press Ctrl + Z and then Enter
 
+---
 
 ## Example Usage
 
@@ -121,6 +119,7 @@ x = x + 2;
 print(x);        // Outputs: 12
 print(z);        // Outputs: 15
 
+---
 
 ## Supported Syntax
 
@@ -132,6 +131,7 @@ print(z);        // Outputs: 15
 | Print Function        | Outputs result to console                       | `print(a);`              |
 | Semicolon             | Used to terminate every statement               | `let x = 3;`             |
 
+---
 
 ## Limitations
 
@@ -143,6 +143,7 @@ print(z);        // Outputs: 15
 - Variables are global and unscoped
 - Minimal error recovery; interpreter exits on error
 
+---
 
 ## Educational Goals
 This interpreter is designed primarily for learning and teaching purposes. Key concepts covered include:
@@ -158,6 +159,8 @@ This project is suitable for students, educators, and self-learners exploring:
 - Compiler and interpreter design
 - Language implementation in C
 - Fundamentals of programming languages
+
+---
 
 ## Contributing 
 
@@ -175,4 +178,4 @@ To contribute:
 3. Commit your changes
 4. Open a pull request with clear documentation
 
-
+---
